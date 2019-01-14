@@ -12,10 +12,11 @@ url:
 # Owner/author information
 owner:
   name:           Seon Noh
-  avatar:         hmfaysal.jpg
+  avatar:         seon.png
   email:          dark.pearl.nst@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Little stories of romantic dreams.
+  whoami:         
   # Social networking links used in footer. Update and remove as you like.
   facebook:       seon.noh.79
   github:         seonNoh      
