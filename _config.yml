@@ -1,4 +1,4 @@
-title:            Notepad
+title:            SEONOLOGY
 description:      "Blogging is fun"
 logo:             logo.png
 disqus_shortname: hmfaysal
@@ -11,18 +11,16 @@ url:        	  /Notepad
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           Seon Noh
   avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  email:          dark.pearl.nst@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  facebook:       seon.noh.79
+  github:         seonNoh      
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    https://plus.google.com/+SeonTaekNoh
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-39365944-7
