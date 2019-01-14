@@ -60,7 +60,7 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              "http://localhost:4000"
+url:              "https://localhost:4000"
 
 
 # Owner/author information
@@ -208,7 +208,7 @@ Notepad
 
 ### _config.yml
 
-Most of the variables found here are used in the .html files found in `_includes` if you need to add or remove anything. A good place to start would be to change the title, tagline, description, and url of your site. Links are absolute and prefixed with `{{ "{{ site.url " }}}}` in the various `_includes` and `_layouts`, so remember to properly set `url`[^1] and use `http://localhost:4000` when developing locally or else the theme's stylesheet and scripts won't load.
+Most of the variables found here are used in the .html files found in `_includes` if you need to add or remove anything. A good place to start would be to change the title, tagline, description, and url of your site. Links are absolute and prefixed with `{{ "{{ site.url " }}}}` in the various `_includes` and `_layouts`, so remember to properly set `url`[^1] and use `https://localhost:4000` when developing locally or else the theme's stylesheet and scripts won't load.
 #### Disqus Comments
 
 Create a [Disqus](http://disqus.com) account and change `disqus_shortname` in `_config.yml` to the Disqus *shortname* you just setup. To enable commenting on a post, add the following to its front matter:
@@ -330,4 +330,4 @@ This theme is free and open source software, distributed under the [The MIT Lice
 
 If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
 
-[^1]: Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for canonical urls in `head.html`. Don't include a trailing `/` in your base url ie: http://hmfaysal.github.io. When developing locally I suggest using `http://localhost:4000` or whatever server you're using to properly load the theme's stylesheet, scripts, and image assets. If you leave this variable blank all links will resolve correctly except those pointing home.
+[^1]: Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for canonical urls in `head.html`. Don't include a trailing `/` in your base url ie: http://hmfaysal.github.io. When developing locally I suggest using `https://localhost:4000` or whatever server you're using to properly load the theme's stylesheet, scripts, and image assets. If you leave this variable blank all links will resolve correctly except those pointing home.
