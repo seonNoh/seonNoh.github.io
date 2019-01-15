@@ -3,7 +3,7 @@ layout: post
 title: "#0. PROLOG"
 categories: [일본 스타트업을 코딩하다]
 author: seon
-imagefeature: images/feature-image/startup-jp-0.jpg
+imagefeature: /feature-image/startup-jp-0.jpg
 ---
 
 >저는 올해로, 11년 차로 접어드는 평범한 한국인 개발자입니다.
