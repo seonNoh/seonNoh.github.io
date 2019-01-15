@@ -3,7 +3,9 @@ layout: post
 title: "#1. 입사"
 categories: [일본 스타트업을 코딩하다]
 author: seon
-image: assets/images/featured-image/startup-jp-1.jpg
+imagefeature: /feature-image/startup-jp/startup-jp-1.jpg
+comments: true
+share: true
 ---
 
 >갑작스런 일본회사로의 입사

@@ -3,7 +3,9 @@ layout: post
 title: "#2. 근태 관리"
 categories: [일본 스타트업을 코딩하다]
 author: seon
-image: assets/images/featured-image/startup-jp-2.jpg
+imagefeature: /feature-image/startup-jp/startup-jp-2.jpg
+comments: true
+share: true
 ---
 
 >일본 스타트업에서는 어떻게 근태를 관리하는지 이야기 해봅니다.

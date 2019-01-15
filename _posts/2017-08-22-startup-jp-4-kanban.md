@@ -3,7 +3,9 @@ layout: post
 title:  "#4. 개발 문화(2) : 칸반 이야기"
 author: seon
 categories: [ 일본 스타트업을 코딩하다 ]
-image: assets/images/featured-image/startup-jp-4.jpg
+imagefeature: /feature-image/startup-jp/startup-jp-4.jpg
+comments: true
+share: true
 ---
 
 > 일본에서 경험한 칸반 방법론에 대한 이야기를 간략하게 정리해봅니다.

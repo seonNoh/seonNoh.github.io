@@ -3,8 +3,10 @@ layout: post
 title:  "#3. 개발문화(1) : 조직 구성"
 author: seon
 categories: [ 일본 스타트업을 코딩하다 ]
-image: assets/images/featured-image/startup-jp-3.jpg
+imagefeature: /feature-image/startup-jp/startup-jp-3.jpg
 featured: true
+comments: true
+share: true
 ---
 
 > 개발팀 중심의 조직 문화에 대해 설명합니다.
