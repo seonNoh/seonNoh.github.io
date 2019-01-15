@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "#0. PROLOG"
-categories: [일본 스타트업을 코딩하다]
+categories: [일본 스타트업을 코딩하다, 스타트업 이야기, 일본 이야기]
+tags: [2017년, 스타트업, 일본 이야기, 프롤로그, fuller-inc]
 author: seon
 imagefeature: /feature-image/startup-jp/startup-jp-0.jpg
 comments: true

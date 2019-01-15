@@ -2,7 +2,8 @@
 layout: post
 title:  "#3. 개발문화(1) : 조직 구성"
 author: seon
-categories: [ 일본 스타트업을 코딩하다 ]
+categories: [일본 스타트업을 코딩하다, 스타트업 이야기, 일본 이야기]
+tags: [2017년, 스타트업, 일본 이야기, fuller-inc, 조직관리]
 imagefeature: /feature-image/startup-jp/startup-jp-3.jpg
 featured: true
 comments: true
