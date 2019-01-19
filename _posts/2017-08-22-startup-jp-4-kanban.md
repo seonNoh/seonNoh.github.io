@@ -4,7 +4,7 @@ title:  "#4. 개발 문화(2) : 칸반 이야기"
 author: seon
 categories: [일본 스타트업을 코딩하다, 스타트업 이야기, 일본 이야기]
 tags: [2017년, 스타트업, 일본 이야기, fuller-inc, 칸반]
-imagefeature: /feature-image/startup-jp/startup-jp-4.jpg
+imagefeature: https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/featured-image/startup-jp-4.jpg
 comments: true
 share: true
 ---
@@ -25,7 +25,7 @@ share: true
 
 
 ![2](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/1.png)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 출처 : http://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -211,6 +211,7 @@ share: true
 
 
 ![3](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/7.png)
+<br>
 이곳 CTO도 쉽지는 않겠지.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 

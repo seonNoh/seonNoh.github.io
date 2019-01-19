@@ -23,7 +23,6 @@ share: true
 
 
 ![구글 포토에 저장되어 있는 하늘 사진만 2만장..](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_1.jpg)
-
 구글 포토에 저장되어 있는 하늘 사진만 2만장..
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -52,17 +51,14 @@ share: true
 
 
 ![물론, 이렇게 업무시간에 발코니로 나와 하늘을 바라볼 수도 있지만.](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_2.jpg)
-
 물론, 이렇게 업무시간에 발코니로 나와 하늘을 바라볼 수도 있지만.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 ![초등학생들과 같이 퇴근하는 기분은 살짝 신난다.](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_3.jpg)
-
 초등학생들과 같이 퇴근하는 기분은 살짝 신난다.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 ![퇴근길, 자전거에서 내려 잠시 찍어본 사진이 더 파랗게 보이는건 기분탓일까?](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_4.jpg)
-
 퇴근길, 자전거에서 내려 잠시 찍어본 사진이 더 파랗게 보이는건 기분탓일까?
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -123,7 +119,6 @@ share: true
 
 
 ![펀칭기기는 아니지만 아이패드로!](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_8.jpg)
-
 펀칭기기는 아니지만 아이패드로!
 {: style="color:gray; font-size: 100%; text-align: center;"}
 

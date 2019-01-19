@@ -42,7 +42,7 @@ share: true
 
 
 ![default](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/1.png)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 3주동안 생전 처음 만들어본 안드로이드 앱 - QR Code 인식 앱
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -117,7 +117,6 @@ CTO : 너 혼자<br>
 
 
 ![default](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/3.jpg)
-
 가운데 회식 후드티의 남자가 지금 우리 리더!
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -147,7 +146,6 @@ CTO : 너 혼자<br>
 
 
 ![1](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/4.jpg)
-
 현재 팀 킥오프 회식!
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
