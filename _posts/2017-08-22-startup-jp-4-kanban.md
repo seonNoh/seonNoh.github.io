@@ -40,15 +40,10 @@ share: true
 기본적으로 소프트웨어 개발론에서의 칸반은 해당 프로젝트에 참여한 모든 멤버가 알 수 있도록 시각화하는 것이 가장 큰 목표입니다만, 아래의 핵심 요소가 포함되어야 비로소 완성이 된다고 할 수 있습니다.
 
 * 시각화
-
 * WIP을 통한 제한
-
 * 흐름의 관리
-
 * 정책의 명시화
-
 * 피드백 루프 실행
-
 * 모든 멤버의 참여로 인한 개선, 실험
 
 
@@ -86,13 +81,9 @@ share: true
 실패 요인
 
 * 애자일/칸반 도입을 위해 팀원들과 공유해야 했던 지식들이 너무 적었다.
-
 * 팀원들은 왜 애자일/칸반을 사용해야 하는지 이해하지 못했다.
-
 * 개발팀 이외의 타부서에서는 프로젝트 관리 툴(당시 레드 마인, JIRA, Trello)을 사용하기를 꺼려했다.(메일이나 네이트온 또는 카톡으로 하면 되는걸 왜 이걸 써야 해?)
-
 * 모든 팀원들이 한눈에 해당 프로젝트의 현황을 알리기 위해 화이트보드에 붙여놨던 카드들은 언젠가부터 팀원 공유가 아닌 팀장을 위한 보고나 사장에게 보이기 위한 카드로 변질되기 시작한다. (Done에 모인 내 카드가 이만큼이나 모였어. 어때? 나 쩔지?)
-
 * 매일 하는 칸반 회의나 1주 또는 2주에 한 번씩 하는 스프린트 회의를 귀찮아 하기 시작한다.
 
 
@@ -130,31 +121,26 @@ share: true
 
 
 ![2](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/2.jpg)
-{: style="color:gray; font-size: 100%; text-align: center;"}
 재무팀 칸반
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 
 ![3](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/3.jpg)
-{: style="color:gray; font-size: 100%; text-align: center;"}
 마케팅팀 칸반
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 
 ![4](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/4.jpg)
-{: style="color:gray; font-size: 100%; text-align: center;"}
 서비스 개발팀 칸반
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 
 ![5](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/5.jpg)
-{: style="color:gray; font-size: 100%; text-align: center;"}
 데이터 개발팀 칸반
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 
 ![6](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/6.jpg)
-{: style="color:gray; font-size: 100%; text-align: center;"}
 마케팅팀 칸반
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -175,35 +161,24 @@ share: true
 
 회사에서 느꼈던 칸반 방식을 위한 준비사항을 나열해봅니다.
 
-* a. 칸반 방식을 적용하기 위해 실험할 팀을 선정한다.
-
-* b. 해당 팀원들에게 칸반에 관련된 서적을 알려주고 일주일 정도의 시간을 준다.
-
-* c. 해당 팀원들이 모두 습득이 완료되면, 1시간가량의 회의시간을 갖고 준비 단계에 들어간다.
-
-* d. 칸반 보드 구성을 위한 구성물 등을 구입한다.
-
-* e. 칸반 보드 구성을 위한 goal을 설정하며, 각 수영 레인을 구성하기 위해 1~2시간 모든 팀원들이 참석하여 회의를 진행한다.
-
-* f. 칸반 보드를 구성한다. 
-
-* g. 구성된 보드를 보며 1~2시간가량 리뷰 회의를 한다.
-
-* h. 완성된 보드를 운영하며 약 2주간 테스트 운영을 하며, 수영 레인을 변경한다.
-
-* i. 최종 완료된 보드를 통해 운영을 하며, 3개월의 운영 이후 타 팀에게 리뷰를 한다.
+1. 칸반 방식을 적용하기 위해 실험할 팀을 선정한다.
+2. 해당 팀원들에게 칸반에 관련된 서적을 알려주고 일주일 정도의 시간을 준다.
+3. 해당 팀원들이 모두 습득이 완료되면, 1시간가량의 회의시간을 갖고 준비 단계에 들어간다.
+4. 칸반 보드 구성을 위한 구성물 등을 구입한다.
+5. 칸반 보드 구성을 위한 goal을 설정하며, 각 수영 레인을 구성하기 위해 1~2시간 모든 팀원들이 참석하여 회의를 진행한다.
+6. 칸반 보드를 구성한다. 
+7. 구성된 보드를 보며 1~2시간가량 리뷰 회의를 한다.
+8. 완성된 보드를 운영하며 약 2주간 테스트 운영을 하며, 수영 레인을 변경한다.
+9. 최종 완료된 보드를 통해 운영을 하며, 3개월의 운영 이후 타 팀에게 리뷰를 한다.
 
 
 
 또한 칸반 운영을 통해 암묵적으로 정해진 룰 또한 나열해봅니다.
 
-* a. 반드시 타 팀의 칸반 보드를 견학하여 구성한 사유를 듣는다.
-
-* b. 문제점이 있다면 피드백을 통해 반드시 공유한다.
-
-* c. 반드시 오프라인 보드를 작성하여 모든 직원들이 볼 수 있도록 한다.
-
-* d. 반드시 칸반을 위한 회의를 진행한다. (보통 10분 내외 소요)
+1. 반드시 타 팀의 칸반 보드를 견학하여 구성한 사유를 듣는다.
+2. 문제점이 있다면 피드백을 통해 반드시 공유한다.
+3. 반드시 오프라인 보드를 작성하여 모든 직원들이 볼 수 있도록 한다.
+4. 반드시 칸반을 위한 회의를 진행한다. (보통 10분 내외 소요)
 
 
 
@@ -236,7 +211,6 @@ share: true
 
 
 ![3](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/7.png)
-{: style="color:gray; font-size: 100%; text-align: center;"}
 이곳 CTO도 쉽지는 않겠지.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
