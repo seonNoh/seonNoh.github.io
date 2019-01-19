@@ -41,7 +41,7 @@ share: true
 하지만, 각 엔지니어들의 포지션은 이 회사에서는 크게 의미가 없습니다. 위에서도 잠시 언급을 했었지만, 10년이 넘는 시간 동안 서버 프로그래밍만 주로 했던 저 역시도, 필요에 의해서는 안드로이드 개발을 하는 경우도 생기게 됩니다.
 
 
-![default](https://user-images.githubusercontent.com/22671637/39664568-1c3085c4-50c0-11e8-8e56-fc54396c3e54.png)
+![default](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/1.png)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 3주동안 생전 처음 만들어본 안드로이드 앱 - QR Code 인식 앱
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -70,7 +70,7 @@ CTO : 너 혼자<br>
 
 약 15년간(대학 포함) JAVA에 매달려 지내왔지만, 입사 후 10개월 동안 제가 담당했던 프로그래밍 언어는 4가지가 넘을 정도로 이 곳에서는 다양한 언어를 모든 엔지니어에게 경험을 시키고 있습니다. 저를 포함한 각 엔지니어들은 이 회사를 통해 다양한 언어를 경험하게 되고 폭넓은 언어 커버리지 능력을 키울 수 있는 좋은 기회라고 생각합니다.
 
-![1](https://user-images.githubusercontent.com/22671637/39664587-52b72ef4-50c0-11e8-88e5-bce42f3679a1.png)
+![1](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/2.png)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 링크드인에 정리해본 지난 10개월간 담당했던 스킬셋..
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -116,7 +116,7 @@ CTO : 너 혼자<br>
 
 
 
-![default](https://user-images.githubusercontent.com/22671637/39664615-afc70074-50c0-11e8-95d2-7474730b7f55.jpg)
+![default](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/3.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 가운데 회식 후드티의 남자가 지금 우리 리더!
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -146,7 +146,7 @@ CTO : 너 혼자<br>
 저는 또 내일(2017.8.8)부터 다른 팀으로 이동합니다. 4번째 팀 변경이긴 하지만 맨 처음 배속되었던 팀으로 다시 돌아가게 됩니다. 아직 어떤 업무를 담당할지, 어떤 시련(?)이 있을지는 모르겠지만 새로운 경험을 할 수 있다는 것에 감사하고 있습니다. 
 
 
-![1](https://user-images.githubusercontent.com/22671637/39664621-ca1eabde-50c0-11e8-80c3-c709a4a4c2f6.jpg)
+![1](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/4.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 현재 팀 킥오프 회식!
 {: style="color:gray; font-size: 100%; text-align: center;"}

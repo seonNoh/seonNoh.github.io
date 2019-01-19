@@ -22,7 +22,7 @@ share: true
 
 
 
-![구글 포토에 저장되어 있는 하늘 사진만 2만장..](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/kXF6LE-BLWqbmXDDz_E4T5qXQ4w.jpg)
+![구글 포토에 저장되어 있는 하늘 사진만 2만장..](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_1.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 구글 포토에 저장되어 있는 하늘 사진만 2만장..
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -51,17 +51,17 @@ share: true
 
 
 
-![물론, 이렇게 업무시간에 발코니로 나와 하늘을 바라볼 수도 있지만.](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/lsprb27OvD_RAfpTwmIuaFP5V3A.jpg)
+![물론, 이렇게 업무시간에 발코니로 나와 하늘을 바라볼 수도 있지만.](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_2.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 물론, 이렇게 업무시간에 발코니로 나와 하늘을 바라볼 수도 있지만.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
-![초등학생들과 같이 퇴근하는 기분은 살짝 신난다.](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/TRte9uIaqDijqUEFrQrT-e_B-5I.JPG)
+![초등학생들과 같이 퇴근하는 기분은 살짝 신난다.](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_3.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 초등학생들과 같이 퇴근하는 기분은 살짝 신난다.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
-![퇴근길, 자전거에서 내려 잠시 찍어본 사진이 더 파랗게 보이는건 기분탓일까?](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/Ng6wmVGdxc6eUY43xruZXfGyv7c.JPG)
+![퇴근길, 자전거에서 내려 잠시 찍어본 사진이 더 파랗게 보이는건 기분탓일까?](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_4.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 퇴근길, 자전거에서 내려 잠시 찍어본 사진이 더 파랗게 보이는건 기분탓일까?
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -70,7 +70,7 @@ share: true
 코어 타임을 오후 3시까지로 정해 놓은 이유는 회사 건물 바로 옆, 미츠이 호텔 (三井ガーデンホテル柏の葉)에서 제공하는 온천과 피트니스 때문이기도 합니다. 우리 회사의 복지중 하나인 온천과 피트니스를 오후 3시부터 저녁 7시까지 제공하기 때문에 그 시간에 맞춰 개인이 자유롭게 시간을 사용하도록 운영하고 있습니다. 또한, `[최소한 같은 회사 직원끼리 5시간 만은 같이 어우러져 일하자! 대신 나머지 3시간은 너희가 하고 싶은 대로 조절해서 사용하도록 해]`라는 회사의 바람도 담겨 있습니다. 실제로도 오후 3시가 되면 편의점에서 간식을 사 오거나, 회사 한쪽에 있는 다다미방에 누워 만화책을 보는 직원, 운동복을 챙겨서 운동을 하러 가는 직원, 온천을 가는 직원도 있으며, 근처 커피숍이나 자기 집으로 가서 업무를 하는 직원도 있습니다. 
 
 
-![오후 3시 이후에는 각 팀의 슬랙 채널에 보고만 하면 끝.](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/eEyr2p245La9OuxcwQSmOSaSpQ0.png)
+![오후 3시 이후에는 각 팀의 슬랙 채널에 보고만 하면 끝.](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_5.png)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 오후 3시 이후에는 각 팀의 슬랙 채널에 보고만 하면 끝.
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -95,7 +95,7 @@ share: true
 그리고 신청을 하게 되면 리더들은 항상 대체휴가를 어느 날짜에 쓸 건지 물어봅니다.
 
 
-![실제 몇일전 휴일근무신청을 했을때 대화 스레드](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/gvE7EUupIJOCe3tDIi_U01CnKNw.png)
+![실제 몇일전 휴일근무신청을 했을때 대화 스레드](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_6.png)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 실제 몇일전 휴일근무신청을 했을때 대화 스레드
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -110,7 +110,7 @@ share: true
 
 ## JOBCAN
 
-![출처 :http://plum.io/blog/why-punching-the-clock-is-bad/#.WWe1Gk6LQkl](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/33pXc97Wn6CfxRB8t4eLg9IGCrk.jpg)
+![출처 :http://plum.io/blog/why-punching-the-clock-is-bad/#.WWe1Gk6LQkl](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_7.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 출처 :http://plum.io/blog/why-punching-the-clock-is-bad/#.WWe1Gk6LQkl
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -122,21 +122,21 @@ share: true
 옛날 시계가 달려 있는 펀칭 기기에 카드를 집어넣으면 그 시간에 구멍이 뚫는 것처럼 여기서도 그 방식을 그대로 사용하고 있습니다.
 
 
-![펀칭기기는 아니지만 아이패드로!](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/QVwNn0l53-k1zzqCgC79CRWvbhw.jpg)
+![펀칭기기는 아니지만 아이패드로!](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_8.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 펀칭기기는 아니지만 아이패드로!
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 사무실로 들어오는 정문과 후문에 각각 설치된 카드리더기에 입사 시 발급받은 IC카드를 찍으면 자동으로 출근 처리가 됩니다. 
 
-![사이트에는 요런 식으로 보여집니다.](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/LVK7BVYzkINYo89eEmlHyf2sWhI.png)
+![사이트에는 요런 식으로 보여집니다.](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_9.png)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 사이트에는 요런 식으로 보여집니다.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 신기하게도 이 서비스는 일본어, 영어뿐 아니라 한국어도 지원이 돼서 개인적으로는 편리하게 관리하며 사용하고 있습니다.
 
-![규정근무 시간 및 실제로 얼마나 일했는지도 파악할 수 있습니다.](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/R2IhvKiBZ3XJg5F9QR-kigWglOI.png)
+![규정근무 시간 및 실제로 얼마나 일했는지도 파악할 수 있습니다.](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_10.png)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 규정근무 시간 및 실제로 얼마나 일했는지도 파악할 수 있습니다.
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -147,7 +147,7 @@ share: true
 
 ## 신뢰와 책임
 
-![아프면 쉬자고~](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/mQr_xs3Dx4Zv4YNSCrQrwqKLGaM.png)
+![아프면 쉬자고~](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_11.png)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 아프면 쉬자고~
 {: style="color:gray; font-size: 100%; text-align: center;"}

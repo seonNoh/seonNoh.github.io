@@ -35,7 +35,7 @@ share: true
 
 예상외로 다음날 바로 답장이 왔네요. 
 
-![일본 회사로부터 받은 메일 발췌](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/eeIITA1Wi0AkOKs2kx4ZgrngqEc.jpg)
+![일본 회사로부터 받은 메일 발췌](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/1.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 [일본 회사로부터 받은 메일 발췌]
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -49,7 +49,7 @@ share: true
 몇 번의 메일을 주고받으니 다음과 같은 메일을 받고 일본으로 인터뷰를 하기로 결정을 했습니다. 
 
 
-![일본 회사로부터 받은 메일 발췌](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/1mBBOVb7Y0Lw0pmnKqYXkcJMx68.jpg)
+![일본 회사로부터 받은 메일 발췌](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/2.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 [일본 회사로부터 받은 메일 발췌]
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -110,7 +110,7 @@ CTO : 뭐.. 책상을 만든다거나, 의자를 만든다거나. <br>
 (참.. 구차하고 억지스럽습니다.) <br>
 
 
-![출처 : http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/KuPcwr0OJ3c80KCU29vLlXfnQ5U.jpg)
+![출처 : http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/3.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 출처 : http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -122,7 +122,7 @@ CTO : 뭐.. 책상을 만든다거나, 의자를 만든다거나. <br>
 
 CTO가 그 질문을 한 이유는 지금도 잘 모르겠지만, 일단 이 회사는 예전부터 모든 사무가구를 직접 제작해서 설치합니다.
 
-![우리 회사 사무실 전경](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/2h6B/image/Nj6rEAlJb0WDCDXh2rHMzcQVBiU.jpg)
+![우리 회사 사무실 전경](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/4.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 우리 회사 사무실 전경
 {: style="color:gray; font-size: 100%; text-align: center;"}
