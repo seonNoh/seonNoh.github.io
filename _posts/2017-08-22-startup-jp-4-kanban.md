@@ -24,7 +24,7 @@ share: true
 여기서 이슈가 간판을 의미하며, 카드(card)라도고 부릅니다.
 
 
-![2](https://user-images.githubusercontent.com/22671637/39664822-991fd0cc-50c4-11e8-8052-8bc1e4a78e7a.png)
+![2](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/1.png)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 출처 : http://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -129,31 +129,31 @@ share: true
 
 
 
-![2](https://user-images.githubusercontent.com/22671637/39664845-f33a8c0a-50c4-11e8-8fb3-fbb0e48e256b.jpg)
+![2](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/2.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 재무팀 칸반
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 
-![3](https://user-images.githubusercontent.com/22671637/39664846-0de7d972-50c5-11e8-8100-4340d5656803.jpg)
+![3](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/3.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 마케팅팀 칸반
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 
-![4](https://user-images.githubusercontent.com/22671637/39664849-1e312694-50c5-11e8-84fd-908a3d50e4f1.jpg)
+![4](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/4.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 서비스 개발팀 칸반
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 
-![5](https://user-images.githubusercontent.com/22671637/39664854-2c8b1fb0-50c5-11e8-8c61-7de6f315f245.jpg)
+![5](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/5.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 데이터 개발팀 칸반
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 
-![6](https://user-images.githubusercontent.com/22671637/39664859-40eac640-50c5-11e8-9ee3-39735c9440c0.jpg)
+![6](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/6.jpg)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 마케팅팀 칸반
 {: style="color:gray; font-size: 100%; text-align: center;"}
@@ -235,7 +235,7 @@ share: true
 
 
 
-![3](https://user-images.githubusercontent.com/22671637/39664878-87326644-50c5-11e8-8ff5-6acbbdcaa4f7.png)
+![3](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/7.png)
 {: style="color:gray; font-size: 100%; text-align: center;"}
 이곳 CTO도 쉽지는 않겠지.
 {: style="color:gray; font-size: 100%; text-align: center;"}
