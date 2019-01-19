@@ -71,7 +71,7 @@ CTO : 너 혼자<br>
 약 15년간(대학 포함) JAVA에 매달려 지내왔지만, 입사 후 10개월 동안 제가 담당했던 프로그래밍 언어는 4가지가 넘을 정도로 이 곳에서는 다양한 언어를 모든 엔지니어에게 경험을 시키고 있습니다. 저를 포함한 각 엔지니어들은 이 회사를 통해 다양한 언어를 경험하게 되고 폭넓은 언어 커버리지 능력을 키울 수 있는 좋은 기회라고 생각합니다.
 
 ![1](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/2.png)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 링크드인에 정리해본 지난 10개월간 담당했던 스킬셋..
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -117,7 +117,7 @@ CTO : 너 혼자<br>
 
 
 ![default](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/3.jpg)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 가운데 회식 후드티의 남자가 지금 우리 리더!
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -147,7 +147,7 @@ CTO : 너 혼자<br>
 
 
 ![1](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/4.jpg)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 현재 팀 킥오프 회식!
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
