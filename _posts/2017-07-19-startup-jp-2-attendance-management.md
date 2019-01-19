@@ -3,6 +3,7 @@ layout: post
 title: "#2. 근태 관리"
 categories: [일본 스타트업을 코딩하다, 스타트업 이야기, 일본 이야기]
 tags: [2017년, 스타트업, 일본 이야기, fuller-inc, 입사관리]
+description: "일본 스타트업에서 경험한 근태 관리에 대해 이야기합니다."
 author: seon
 imagefeature: /feature-image/startup-jp/startup-jp-2.jpg
 comments: true

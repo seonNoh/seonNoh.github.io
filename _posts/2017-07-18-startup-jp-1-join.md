@@ -3,6 +3,7 @@ layout: post
 title: "#1. 입사"
 categories: [일본 스타트업을 코딩하다, 스타트업 이야기, 일본 이야기]
 tags: [2017년, 스타트업, 일본 이야기, fuller-inc, 입사]
+description: "일본 스타트업 회사에 입사하게 된 이야기를 해봅니다."
 author: seon
 imagefeature: /feature-image/startup-jp/startup-jp-1.jpg
 comments: true
