@@ -23,7 +23,7 @@ share: true
 
 
 ![구글 포토에 저장되어 있는 하늘 사진만 2만장..](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_1.jpg)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 구글 포토에 저장되어 있는 하늘 사진만 2만장..
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -52,17 +52,17 @@ share: true
 
 
 ![물론, 이렇게 업무시간에 발코니로 나와 하늘을 바라볼 수도 있지만.](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_2.jpg)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 물론, 이렇게 업무시간에 발코니로 나와 하늘을 바라볼 수도 있지만.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 ![초등학생들과 같이 퇴근하는 기분은 살짝 신난다.](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_3.jpg)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 초등학생들과 같이 퇴근하는 기분은 살짝 신난다.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 ![퇴근길, 자전거에서 내려 잠시 찍어본 사진이 더 파랗게 보이는건 기분탓일까?](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_4.jpg)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 퇴근길, 자전거에서 내려 잠시 찍어본 사진이 더 파랗게 보이는건 기분탓일까?
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -71,7 +71,7 @@ share: true
 
 
 ![오후 3시 이후에는 각 팀의 슬랙 채널에 보고만 하면 끝.](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_5.png)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 오후 3시 이후에는 각 팀의 슬랙 채널에 보고만 하면 끝.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -96,7 +96,7 @@ share: true
 
 
 ![실제 몇일전 휴일근무신청을 했을때 대화 스레드](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_6.png)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 실제 몇일전 휴일근무신청을 했을때 대화 스레드
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -111,7 +111,7 @@ share: true
 ## JOBCAN
 
 ![출처 :http://plum.io/blog/why-punching-the-clock-is-bad/#.WWe1Gk6LQkl](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_7.jpg)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 출처 :http://plum.io/blog/why-punching-the-clock-is-bad/#.WWe1Gk6LQkl
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -123,21 +123,21 @@ share: true
 
 
 ![펀칭기기는 아니지만 아이패드로!](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_8.jpg)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 펀칭기기는 아니지만 아이패드로!
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 사무실로 들어오는 정문과 후문에 각각 설치된 카드리더기에 입사 시 발급받은 IC카드를 찍으면 자동으로 출근 처리가 됩니다. 
 
 ![사이트에는 요런 식으로 보여집니다.](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_9.png)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 사이트에는 요런 식으로 보여집니다.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 신기하게도 이 서비스는 일본어, 영어뿐 아니라 한국어도 지원이 돼서 개인적으로는 편리하게 관리하며 사용하고 있습니다.
 
 ![규정근무 시간 및 실제로 얼마나 일했는지도 파악할 수 있습니다.](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_10.png)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 규정근무 시간 및 실제로 얼마나 일했는지도 파악할 수 있습니다.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -148,7 +148,7 @@ share: true
 ## 신뢰와 책임
 
 ![아프면 쉬자고~](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_11.png)
-{: style="color:gray; font-size: 100%; text-align: center;"}
+
 아프면 쉬자고~
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
