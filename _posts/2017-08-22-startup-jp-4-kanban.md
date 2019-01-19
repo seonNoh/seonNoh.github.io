@@ -4,10 +4,10 @@ title:  "#4. 개발 문화(2) : 칸반 이야기"
 author: seon
 categories: [일본 스타트업을 코딩하다, 스타트업 이야기, 일본 이야기]
 tags: [2017년, 스타트업, 일본 이야기, fuller-inc, 칸반]
-imagefeature: https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/featured-image/startup-jp-4.jpg
 comments: true
 share: true
 ---
+![cover-image](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/featured-image/startup-jp-4.jpg)
 
 > 일본에서 경험한 칸반 방법론에 대한 이야기를 간략하게 정리해봅니다.
 
