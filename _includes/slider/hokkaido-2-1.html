@@ -1,15 +1,16 @@
-<div class="example-progressbar">
-  <img data-lazy-src="https://devrama.com/static/devrama-slider/images/265740754_141774705b_b.png" />
-  <img data-lazy-src="https://devrama.com/static/devrama-slider/images/4247776023_81a3f048ca_b.png" />
-  <img data-lazy-src="https://devrama.com/static/devrama-slider/images/4277941123_044d26b6df_b.png" />
-  <img data-lazy-src="https://devrama.com/static/devrama-slider/images/4432435310_d5010f8efc_b.png" />
-  <img data-lazy-src="https://devrama.com/static/devrama-slider/images/6240134386_db0f314ef6_b.png" />
-</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.css" rel="stylesheet" />
 
-<script type="text/javascript">
-  $(document).ready(function(){
-      $('.example-progressbar').DrSlider({
-          'showProgress': false
-      });
-  });
+<script>
+$(document).ready(function(){
+  $('.bxslider').bxSlider();
+});
 </script>
+
+
+<ul class="bxslider">
+  <li><img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/hokkaido-2/resize-copyright-1.JPG" /></li>
+  <li><img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/hokkaido-2/resize-copyright-2.JPG" /></li>
+  <li><img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/hokkaido-2/resize-copyright-3.JPG" /></li>
+  <li><img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/hokkaido-2/resize-copyright-4.JPG" /></li>
+</ul>
