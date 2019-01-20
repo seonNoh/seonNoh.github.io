@@ -1,5 +1,4 @@
-   	<!-- Google CDN Hosted jQuery  -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
     <script src="{{ site.url }}/assets/js/vendor/modernizr.js"></script>
     <script src="{{ site.url }}/assets/js/foundation.min.js"></script>
@@ -28,23 +27,3 @@
 </script>
 {% endif %}
 <script>NProgress.start();var interval=setInterval(function(){NProgress.inc()},1000);jQuery(window).load(function(){clearInterval(interval);NProgress.done()});jQuery(window).unload(function(){NProgress.start()});</script>
-
-<!-- auto height for iframe-->
-<script type="text/javascript"> 
-  //<![CDATA[
-  function calcHeight(){
-   //find the height of the internal page
-  
-   var the_height=
-   document.getElementById('the_iframe').contentWindow.
-   document.body.scrollHeight;
-  
-   //change the height of the iframe
-   document.getElementById('the_iframe').height=
-   the_height;
-  
-   //document.getElementById('the_iframe').scrolling = "no";
-   document.getElementById('the_iframe').style.overflow = "hidden";
-  }
-  //
-  </script>
