@@ -27,14 +27,12 @@ share: true
 저뿐만이 아니라 많은 사람들은 '회의'라는 단어가 더 이상 회의(懷疑)적인 회의(會議)가 되지 않도록 끊임없이 개발을 하고 있습니다.
 
 ![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/1.png)
-
 구글에서 '회의의 목적'이란 단어만 검색해도 얼마나 많은 사람들이 고민하는지를 알수 있습니다.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 링크드인의 임원중 하나인 Brian Rumao(Chief of Staff at LinkedIn)가 2015년에 적은 [링크드인에서 하고 있는 회의 방법-How LinkedIn Execs Run Meetings](https://www.linkedin.com/pulse/how-linkedin-execs-run-meetings-brian-rumao)에서는 훌륭한 회의(Great Meeting)가 되기 위해서 9가지의 팁을 내놓기도 했으며, 구글의 회장이었던  '에릭 슈미트'도 [구글에서는 어떻게 일하는가? - How Google Works?]라는 책에서 [회의의 8개 원칙](http://www.businessinsider.com/googles-rules-for-a-great-meeting-2014-9)을 언급하기도 했습니다.
 
 ![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/2.png)
-
 Brian Rumao가 제안한 회의에 대한 팁들.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -54,7 +52,6 @@ Brian Rumao가 제안한 회의에 대한 팁들.
  6. 반드시 진행자 역할을 지정한다.
 
 ![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/3.png)
-
 [회의 초대 메일] 회의 아젠다 / 회의 시간을 미리 기재해서 메일로 보냅니다.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -65,9 +62,6 @@ Brian Rumao가 제안한 회의에 대한 팁들.
 ### 1. 아침 회의(朝会)
 
 ![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/4.jpg)
-
-[회의 초대 메일] 회의 아젠다 / 회의 시간을 미리 기재해서 메일로 보냅니다.
-{: style="color:gray; font-size: 100%; text-align: center;"}
 
 아침 10시가 되면 모두 책상 앞에 일어나 인사를 합니다. 기본적으로 진행은 임원진이 하며, 그날 공유사항이 있다면 전달하는 방식입니다. 또한, 직원들끼리 전달할 말이 있다면 이 시간에 모두 모여 이야기를 하고 있습니다.
 
@@ -86,7 +80,6 @@ _**"오늘 점심시간에 000에서 일하는 친구가 옵니다. 이야기 �
 길어야 5분이며, 짧을 땐 10초 만에 끝날 때도 있습니다.
 
 ![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/5.jpg)
-
 현재시간 10:00, 이렇게 출근한 사람이 몇명 없을때도 어김없이 진행합니다.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
@@ -129,16 +122,16 @@ _**"오늘 점심시간에 000에서 일하는 친구가 옵니다. 이야기 �
 지난 글(근태관리)에서도 언급했듯이, 이 회사 업무 코어 시간은 오전 10시부터 오후 3시까지 입니다. 임원진이 제안한 오전 9시 30분은 코어 타임 이전이기 때문에 직원들의 반발이 조금 있었습니다.
 
 
->직원 A : 왜 코어타임 이외에 저런 중요한 회의를 하지?<br>
-임원진 : 한주의 시작을 긴장도 기합도 넣을 겸 30분 일찍 시작하자는 거야.<br>
-직원 B : 의도는 좋아. 하지만 코어타임을 30분 일찍 당겨지게 되니 코어타임 마감시간도 오후 2시 30분인 거야?<br>
-임원진 : 그건 아니야.<br>
-직원 B : 그럼 코어타임의 의미가 없잖아. 애초부터 코어타임의 의미를 생각해 보라고.<br>
-임원진 : 미안해. 너의 말이 맞아. 그럼 참석은 자유로 하자고. 관심 있는 직원들은 먼저 와서 볼 수 있도록.<br>
-직원 C : 여기 관심 없는 직원은 없다고 생각해. 결국 다 오게 되는 거잖아.<br>
-임원진 : 이 회의의 의도를 생각해줘. <br>
-직원 D : 애초부터 이런 중요한 건 우리와 함께 결정했어야 하지 않아? 일단 납득은 되니 진행하자. 다만, 우리가 말하는 의도는 알아줬으면 좋겠어.<br>
-임원진 : 미안해, 그리고 이해해줘서 고마워. 일단 시범적으로 진행하는 거니 계속 수정해 나갈 테니 지켜봐 줘.<br>
+>**직원 A** : 왜 코어타임 이외에 저런 중요한 회의를 하지?<br>
+**임원진** : 한주의 시작을 긴장도 기합도 넣을 겸 30분 일찍 시작하자는 거야.<br>
+**직원 B** : 의도는 좋아. 하지만 코어타임을 30분 일찍 당겨지게 되니 코어타임 마감시간도 오후 2시 30분인 거야?<br>
+**임원진** : 그건 아니야.<br>
+**직원 B** : 그럼 코어타임의 의미가 없잖아. 애초부터 코어타임의 의미를 생각해 보라고.<br>
+**임원진** : 미안해. 너의 말이 맞아. 그럼 참석은 자유로 하자고. 관심 있는 직원들은 먼저 와서 볼 수 있도록.<br>
+**직원 C** : 여기 관심 없는 직원은 없다고 생각해. 결국 다 오게 되는 거잖아.<br>
+**임원진** : 이 회의의 의도를 생각해줘. <br>
+**직원 D** : 애초부터 이런 중요한 건 우리와 함께 결정했어야 하지 않아? 일단 납득은 되니 진행하자. 다만, 우리가 말하는 의도는 알아줬으면 좋겠어.<br>
+**임원진** : 미안해, 그리고 이해해줘서 고마워. 일단 시범적으로 진행하는 거니 계속 수정해 나갈 테니 지켜봐 줘.<br>
 
 실제로 이루어진 대화였으며, 서로 이해를 하고 9시 30분에 진행을 하기로 했습니다만, 몇 주 진행을 한 뒤 결국은 코어타임의 시작인 아침 10시부터 진행하는 것으로 변경되어 현재까지 진행을 하고 있는 회의입니다.
 
@@ -155,12 +148,10 @@ _**"오늘 점심시간에 000에서 일하는 친구가 옵니다. 이야기 �
 모든 팀의 실적과 경과보고를 하게 되며, 각 팀당 20분씩 보고를 합니다. 오전 10시부터 약 2시간에서 3시간 동안 진행되며, 각 팀의 실적보고, 각 지방 거점의 보고, 각 국(현재는 한국, 미국)의 현지 보고까지 진행됩니다. 또한 회사에 얼마나 돈이 남아있으며, 어디에 사용이 되었고, 이상태로 얼마큼 지속되는지까지 세세한 상황까지 보고 됩니다. 비교적 무거운 내용을 다루고는 있지만, 직원들은 매달 진행하는 축제처럼 즐기는 분위기입니다. 가장 긴 시간의 회의이기 때문에 회사로부터 점심 식사가 제공됩니다. 매달 한번 모이는 기회인 만큼 적어도 점심식사는 함께 같이 할 수 있도록 하고자 하는 회사의 의도가 들어있기도 합니다. 중국요리를 먹을 때도 있고, 피자를 먹을 때도 있으며, 빵이나 샌드위치, 버거 등을 잔뜩 사 와서 골라먹기도 합니다.
 
 ![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/7.png)
-
 왼쪽 아래 흰색 티셔츠가 CEO, 그 아래가 COO인건 비밀임.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
 ![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/8.png)
-
 회의가 끝나면 다같이 모여 런치타임...아..아니 란치타이무.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
