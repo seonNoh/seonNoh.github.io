@@ -33,6 +33,7 @@ share: true
 링크드인의 임원중 하나인 Brian Rumao(Chief of Staff at LinkedIn)가 2015년에 적은 [링크드인에서 하고 있는 회의 방법-How LinkedIn Execs Run Meetings](https://www.linkedin.com/pulse/how-linkedin-execs-run-meetings-brian-rumao)에서는 훌륭한 회의(Great Meeting)가 되기 위해서 9가지의 팁을 내놓기도 했으며, 구글의 회장이었던  '에릭 슈미트'도 [구글에서는 어떻게 일하는가? - How Google Works?]라는 책에서 [회의의 8개 원칙](http://www.businessinsider.com/googles-rules-for-a-great-meeting-2014-9)을 언급하기도 했습니다.
 
 ![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/2.png)
+
 Brian Rumao가 제안한 회의에 대한 팁들.
 {: style="color:gray; font-size: 100%; text-align: center;"}
 
