@@ -1,61 +1,46 @@
-<div class="wrapper">
-  <input checked type=radio name="slider" id="slide1" />
-  <input type=radio name="slider" id="slide2" />
-  <input type=radio name="slider" id="slide3" />
-  <input type=radio name="slider" id="slide4" />
-  <input type=radio name="slider" id="slide5" />
+<div class="container">
+	
+	<div data-am-fadeshow="next-prev-navigation">
 
-  <div class="slider-wrapper">
-    <div class=inner>
-      <article>
-        <div class="info top-left">
-          <h3>Malacca</h3></div>
-        <img src="https://farm9.staticflickr.com/8059/28286750501_dcc27b1332_h_d.jpg" />
-      </article>
+		<!-- Radio -->
+		<input type="radio" name="css-fadeshow" id="slide-1" />
+		<input type="radio" name="css-fadeshow" id="slide-2" />
+		<input type="radio" name="css-fadeshow" id="slide-3" />
 
-      <article>
-        <div class="info bottom-right">
-          <h3>Cameron Highland</h3></div>
-        <img src="https://farm6.staticflickr.com/5812/23394215774_b76cd33a87_h_d.jpg" />
-      </article>
+		<!-- Slides -->
+		<div class="fs-slides">
+			<div class="fs-slide" style="background-image: url(https://images.unsplash.com/photo-1460500063983-994d4c27756c?crop=entropy&fit=crop&fm=jpg&h=1325&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=2550);">
+				<!-- Add content to images (sample) -->
+				<div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-family: sans-serif; text-align: center; text-shadow: 0 0 20px rgba(0,0,0,0.5);">
+					<h1 style="margin-top: 0; margin-bottom: 0.8vw; font-size: 5vw; font-weight: bold;">CSS Fadeshow</h1>
+					<p style="font-size: 2vw; font-weight: 100; margin-top: 0;">Easy to implement and use on <strong>your</strong> site!</p>
+				</div>
+			</div>
+			<div class="fs-slide" style="background-image: url(https://images.unsplash.com/photo-1440557653082-e8e186733eeb?crop=entropy&fit=crop&fm=jpg&h=1325&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=2500);"></div>
+			<div class="fs-slide" style="background-image: url(https://images.unsplash.com/photo-1449057528837-7ca097b3520c?crop=entropy&fit=crop&fm=jpg&h=1325&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=2500);"></div>
+		</div>
 
-      <article>
-        <div class="info bottom-left">
-          <h3>New Delhi</h3></div>
-        <img src="https://farm8.staticflickr.com/7455/27879053992_ef3f41c4a0_h_d.jpg" />
-      </article>
+		<!-- Quick Navigation -->
+		<div class="fs-quick-nav">
+			<label class="fs-quick-btn" for="slide-1"></label>
+			<label class="fs-quick-btn" for="slide-2"></label>
+			<label class="fs-quick-btn" for="slide-3"></label>
+		</div>
+		
+		<!-- Prev Navigation -->
+		<div class="fs-prev-nav">
+			<label class="fs-prev-btn" for="slide-1"></label>
+			<label class="fs-prev-btn" for="slide-2"></label>
+			<label class="fs-prev-btn" for="slide-3"></label>
+		</div>
+		
+		<!-- Next Navigation -->
+		<div class="fs-next-nav">
+			<label class="fs-next-btn" for="slide-1"></label>
+			<label class="fs-next-btn" for="slide-2"></label>
+			<label class="fs-next-btn" for="slide-3"></label>
+		</div>
 
-      <article>
-        <div class="info top-right">
-          <h3>Ladakh</h3></div>
-        <img src="https://farm8.staticflickr.com/7367/27980898905_72d106e501_h_d.jpg" />
-      </article>
-
-      <article>
-        <div class="info bottom-left">
-          <h3>Nubra Valley</h3></div>
-        <img src="https://farm8.staticflickr.com/7356/27980899895_9b6c394fec_h_d.jpg" />
-      </article>
-    </div>
-    <!-- .inner -->
-  </div>
-  <!-- .slider-wrapper -->
-
-  <div class="slider-prev-next-control">
-    <label for=slide1></label>
-    <label for=slide2></label>
-    <label for=slide3></label>
-    <label for=slide4></label>
-    <label for=slide5></label>
-  </div>
-  <!-- .slider-prev-next-control -->
-
-  <div class="slider-dot-control">
-    <label for=slide1></label>
-    <label for=slide2></label>
-    <label for=slide3></label>
-    <label for=slide4></label>
-    <label for=slide5></label>
-  </div>
-  <!-- .slider-dot-control -->
+	</div>
+	
 </div>
