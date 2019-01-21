@@ -46,7 +46,7 @@ share: true
             </tr>
             <tr>
                 <td>
-                    <center>[일본 회사로부터 받은 메일 발췌]</center>
+                    <center><b>일본 회사로부터 받은 메일 발췌</center>
                 </td>
             </tr>
         </tbody>
@@ -61,12 +61,22 @@ share: true
 
 몇 번의 메일을 주고받으니 다음과 같은 메일을 받고 일본으로 인터뷰를 하기로 결정을 했습니다. 
 
-
-![일본 회사로부터 받은 메일 발췌](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/2.jpg)
-
-[일본 회사로부터 받은 메일 발췌]
-{: style="color:gray; font-size: 100%; text-align: center;"}
-
+<div class="row">
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/2.jpg" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center><b>일본 회사로부터 받은 메일 발췌</b></center>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 몇 번의 메일을 주고받은 중에서도 어떠한 메일 격식도 없었고, 딱딱한 인터뷰나 면접 이야기가 아닌,
 
@@ -122,23 +132,47 @@ CTO : 뭐.. 책상을 만든다거나, 의자를 만든다거나. <br>
 나 : 음... (왜인지 모르겠지만 갑자기 초등학교 시절 '과학상자'라는 걸 이용해서 전국대회까지 가서 수상했던 생각이 나서..) 응! 좋아해! '과학상자'라고 알아? 어렸을 때부터 그런 거 만들면서 지냈거든! 지금은 바쁘다고 핑계 대고 손을 놓고 있지만 원래는 만드는 거 좋아해! <br>
 (참.. 구차하고 억지스럽습니다.) <br>
 
-
-![출처 : http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/3.jpg)
-
-출처 : http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html
-{: style="color:gray; font-size: 100%; text-align: center;"}
-
+<div class="row">
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/3.jpg" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center><b>
+                        <a href="http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html">
+                            출처 : http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html
+                        </>
+                    </b></center>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 일본인들은 '과학상자'를 모르기 때문에 한 5분 동안 서로 설명하고 이해하고 웃느라 또 사소한 대화로 시간을 보냅니다.
 
-
-
 CTO가 그 질문을 한 이유는 지금도 잘 모르겠지만, 일단 이 회사는 예전부터 모든 사무가구를 직접 제작해서 설치합니다.
 
-![우리 회사 사무실 전경](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/4.jpg)
-
-우리 회사 사무실 전경
-{: style="color:gray; font-size: 100%; text-align: center;"}
+<div class="row">
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/4.jpg" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center><b>우리 회사 사무실 전경</b></center>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 위의 사진처럼 모니터 빼고 사진에 있는 모든 걸 모든 직원들과 직접 제작하고 배치합니다.
 
@@ -164,7 +198,7 @@ COO : 너를 소개시켜준 그 친구는 우리가 참 좋아하는 친구야.
 
 
 
-그리고 저는.
+## 그리고 저는.
 
 그렇게 일본에서 직업을 갖게 되고, 엔지니어로써 그들과 함께 일을 하고 있습니다. :) 
 

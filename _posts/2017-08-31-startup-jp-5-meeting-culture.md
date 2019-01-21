@@ -26,16 +26,41 @@ share: true
 
 저뿐만이 아니라 많은 사람들은 '회의'라는 단어가 더 이상 회의(懷疑)적인 회의(會議)가 되지 않도록 끊임없이 개발을 하고 있습니다.
 
-![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/1.png)
-구글에서 '회의의 목적'이란 단어만 검색해도 얼마나 많은 사람들이 고민하는지를 알수 있습니다.
-{: style="color:gray; font-size: 100%; text-align: center;"}
+<div class="row">
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/1.png" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center><b>구글에서 '회의의 목적'이란 단어만 검색해도 얼마나 많은 사람들이 고민하는지를 알수 있습니다.</b></center>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 링크드인의 임원중 하나인 Brian Rumao(Chief of Staff at LinkedIn)가 2015년에 적은 [링크드인에서 하고 있는 회의 방법-How LinkedIn Execs Run Meetings](https://www.linkedin.com/pulse/how-linkedin-execs-run-meetings-brian-rumao)에서는 훌륭한 회의(Great Meeting)가 되기 위해서 9가지의 팁을 내놓기도 했으며, 구글의 회장이었던  '에릭 슈미트'도 [구글에서는 어떻게 일하는가? - How Google Works?]라는 책에서 [회의의 8개 원칙](http://www.businessinsider.com/googles-rules-for-a-great-meeting-2014-9)을 언급하기도 했습니다.
 
-![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/2.png)
-
-Brian Rumao가 제안한 회의에 대한 팁들.
-{: style="color:gray; font-size: 100%; text-align: center;"}
+<div class="row">
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/2.png" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center><b>Brian Rumao가 제안한 회의에 대한 팁들.</b></center>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 제가 근무하고 있는 이 회사에서는 딱히 회의에 대한 원칙을 내놓거나 회의에 대한 규칙이 존재하지는 않습니다. 하지만 리더급을 비롯한 임원진들은 효율적인 회의를 위해서 계속 시도를 하고 있으며, 고민한 방법에 대해서 전 직원들에게 같이 설득하며 진화시키고 있는 중입니다.
 
@@ -52,9 +77,22 @@ Brian Rumao가 제안한 회의에 대한 팁들.
  5. 정기 회의는 10분을 넘기지 않는다.
  6. 반드시 진행자 역할을 지정한다.
 
-![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/3.png)
-[회의 초대 메일] 회의 아젠다 / 회의 시간을 미리 기재해서 메일로 보냅니다.
-{: style="color:gray; font-size: 100%; text-align: center;"}
+<div class="row">
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/3.png" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center><b>[회의 초대 메일] 회의 아젠다 / 회의 시간을 미리 기재해서 메일로 보냅니다.</b></center>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 현재 회사에는 지속적으로 진행하는 정기회의와 필요시 진행되는 업무회의가 있습니다. 
 
@@ -62,7 +100,17 @@ Brian Rumao가 제안한 회의에 대한 팁들.
 
 ### 1. 아침 회의(朝会)
 
-![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/4.jpg)
+<div class="row">
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/4.jpg" />
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 아침 10시가 되면 모두 책상 앞에 일어나 인사를 합니다. 기본적으로 진행은 임원진이 하며, 그날 공유사항이 있다면 전달하는 방식입니다. 또한, 직원들끼리 전달할 말이 있다면 이 시간에 모두 모여 이야기를 하고 있습니다.
 
@@ -80,9 +128,22 @@ _**"오늘 점심시간에 000에서 일하는 친구가 옵니다. 이야기 �
 
 길어야 5분이며, 짧을 땐 10초 만에 끝날 때도 있습니다.
 
-![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/5.jpg)
-현재시간 10:00, 이렇게 출근한 사람이 몇명 없을때도 어김없이 진행합니다.
-{: style="color:gray; font-size: 100%; text-align: center;"}
+<div class="row">
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="(https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/5.jpg" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center><b>현재시간 10:00, 이렇게 출근한 사람이 몇명 없을때도 어김없이 진행합니다.</b></center>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ### 2. 팀 칸반 회의
 
@@ -144,17 +205,53 @@ _**"오늘 점심시간에 000에서 일하는 친구가 옵니다. 이야기 �
 
 가급적이면 이 날은 유급을 삼가도록 권유하고 있으며, 타지방이나 타국에 있는 직원들도 영상통화로 연결하여 모두 참여하게 하고 있습니다.
 
-![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/6.png)
+<div class="row">
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/6.png" />
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 모든 팀의 실적과 경과보고를 하게 되며, 각 팀당 20분씩 보고를 합니다. 오전 10시부터 약 2시간에서 3시간 동안 진행되며, 각 팀의 실적보고, 각 지방 거점의 보고, 각 국(현재는 한국, 미국)의 현지 보고까지 진행됩니다. 또한 회사에 얼마나 돈이 남아있으며, 어디에 사용이 되었고, 이상태로 얼마큼 지속되는지까지 세세한 상황까지 보고 됩니다. 비교적 무거운 내용을 다루고는 있지만, 직원들은 매달 진행하는 축제처럼 즐기는 분위기입니다. 가장 긴 시간의 회의이기 때문에 회사로부터 점심 식사가 제공됩니다. 매달 한번 모이는 기회인 만큼 적어도 점심식사는 함께 같이 할 수 있도록 하고자 하는 회사의 의도가 들어있기도 합니다. 중국요리를 먹을 때도 있고, 피자를 먹을 때도 있으며, 빵이나 샌드위치, 버거 등을 잔뜩 사 와서 골라먹기도 합니다.
 
-![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/7.png)
-왼쪽 아래 흰색 티셔츠가 CEO, 그 아래가 COO인건 비밀임.
-{: style="color:gray; font-size: 100%; text-align: center;"}
+<div class="row">
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/7.png" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center><b>왼쪽 아래 흰색 티셔츠가 CEO, 그 아래가 COO인건 비밀임.</b></center>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-![google_search](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/8.png)
-회의가 끝나면 다같이 모여 런치타임...아..아니 란치타이무.
-{: style="color:gray; font-size: 100%; text-align: center;"}
+<div class="row">
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/8.png" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <center><b>회의가 끝나면 다같이 모여 런치타임...아..아니 란치타이무.</b></center>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ## YOUNG
 
