@@ -148,7 +148,7 @@ CTO : 뭐.. 책상을 만든다거나, 의자를 만든다거나. <br>
                 <tr>
                     <td>
                         <center><b>
-                            <a href="http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html">
+                            <a href="http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html" target="_blank">
                                 출처 : http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html
                             </a>
                         </b></center>

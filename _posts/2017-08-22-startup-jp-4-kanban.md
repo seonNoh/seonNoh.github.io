@@ -28,15 +28,19 @@ share: true
             <tbody>
                 <tr>
                     <td>
+                        <center>
                         <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/1.png" />
+                        </center>
                     </td>
                 </tr>
                 <tr>
                     <td>
-                    <center><b>
-                            <a href="http://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019">
-                                출처 : http://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019</a>
-                        </b></center>
+                        <center>
+                            <b>
+                                <a href="http://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019" target="_blank">
+                                    출처 : http://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019</a>
+                            </b>
+                        </center>
                     </td>
                 </tr>
             </tbody>
