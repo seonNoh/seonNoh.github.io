@@ -86,6 +86,9 @@ share: true
             </tr>
             <tr>
                 <td>
+                    <center><b>초등학생들과 같이 퇴근하는 기분은 살짝 신난다.
+</b></center>
+                </td>
             </tr>
         </tbody>
     </table>
