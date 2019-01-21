@@ -36,10 +36,9 @@ share: true
 
 예상외로 다음날 바로 답장이 왔네요. 
 
-![일본 회사로부터 받은 메일 발췌](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/1.jpg)
-
-[일본 회사로부터 받은 메일 발췌]
-{: style="color:gray; font-size: 100%; text-align: center;"}
+|![일본 회사로부터 받은 메일 발췌](https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/1.jpg)|
+|:--:|
+|[일본 회사로부터 받은 메일 발췌]|
 
 직접???
 
