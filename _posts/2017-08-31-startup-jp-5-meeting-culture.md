@@ -46,20 +46,22 @@ share: true
 링크드인의 임원중 하나인 Brian Rumao(Chief of Staff at LinkedIn)가 2015년에 적은 [링크드인에서 하고 있는 회의 방법-How LinkedIn Execs Run Meetings](https://www.linkedin.com/pulse/how-linkedin-execs-run-meetings-brian-rumao)에서는 훌륭한 회의(Great Meeting)가 되기 위해서 9가지의 팁을 내놓기도 했으며, 구글의 회장이었던  '에릭 슈미트'도 [구글에서는 어떻게 일하는가? - How Google Works?]라는 책에서 [회의의 8개 원칙](http://www.businessinsider.com/googles-rules-for-a-great-meeting-2014-9)을 언급하기도 했습니다.
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/2.png" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>Brian Rumao가 제안한 회의에 대한 팁들.</b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/2.png" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>Brian Rumao가 제안한 회의에 대한 팁들.</b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
 제가 근무하고 있는 이 회사에서는 딱히 회의에 대한 원칙을 내놓거나 회의에 대한 규칙이 존재하지는 않습니다. 하지만 리더급을 비롯한 임원진들은 효율적인 회의를 위해서 계속 시도를 하고 있으며, 고민한 방법에 대해서 전 직원들에게 같이 설득하며 진화시키고 있는 중입니다.
@@ -78,20 +80,22 @@ share: true
  6. 반드시 진행자 역할을 지정한다.
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/3.png" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>[회의 초대 메일] 회의 아젠다 / 회의 시간을 미리 기재해서 메일로 보냅니다.</b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/3.png" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>[회의 초대 메일] 회의 아젠다 / 회의 시간을 미리 기재해서 메일로 보냅니다.</b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
 현재 회사에는 지속적으로 진행하는 정기회의와 필요시 진행되는 업무회의가 있습니다. 
@@ -133,7 +137,7 @@ _**"오늘 점심시간에 000에서 일하는 친구가 옵니다. 이야기 �
         <tbody>
             <tr>
                 <td>
-                    <img src="(https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/5.jpg" />
+                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-5/5.jpg" />
                 </td>
             </tr>
             <tr>

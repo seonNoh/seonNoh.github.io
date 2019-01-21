@@ -42,20 +42,22 @@ share: true
 하지만, 각 엔지니어들의 포지션은 이 회사에서는 크게 의미가 없습니다. 위에서도 잠시 언급을 했었지만, 10년이 넘는 시간 동안 서버 프로그래밍만 주로 했던 저 역시도, 필요에 의해서는 안드로이드 개발을 하는 경우도 생기게 됩니다.
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/1.png" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>3주동안 생전 처음 만들어본 안드로이드 앱 - QR Code 인식 앱</b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/1.png" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>3주동안 생전 처음 만들어본 안드로이드 앱 - QR Code 인식 앱</b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
 어제까지 golang을 사용하여 서버 프로그래밍을 했던 친구가 오늘부터 워드프레스를 사용하여 테마를 만드는 경우도 있고, 파이선으로 개발했던 친구가 Swift를 이용해서 IOS 앱을 만드는 경우도 있습니다. 다행히 이 곳 개발자들은 호기심 대마왕들이라, 새로운 영역에 대한 개발에 대해 오히려 즐거워하는 경향이 많습니다. 자연스럽게 포지션을 옮겨가면서 개발하는 것에 대해 자연스럽게 받아들이는 이 친구들의 모습, 클라이언트의 ㅋ자도 모르는 저에게 자연스럽게 안드로이드 개발을 하기를 원하는 CTO의 모습들은 저에게 있어서 처음엔 쉽게 받아들여지지 않았던 모습이었습니다.
@@ -79,20 +81,22 @@ CTO : 너 혼자<br>
 약 15년간(대학 포함) JAVA에 매달려 지내왔지만, 입사 후 10개월 동안 제가 담당했던 프로그래밍 언어는 4가지가 넘을 정도로 이 곳에서는 다양한 언어를 모든 엔지니어에게 경험을 시키고 있습니다. 저를 포함한 각 엔지니어들은 이 회사를 통해 다양한 언어를 경험하게 되고 폭넓은 언어 커버리지 능력을 키울 수 있는 좋은 기회라고 생각합니다.
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/2.png" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>링크드인에 정리해본 지난 10개월간 담당했던 스킬셋..</b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/2.png" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>링크드인에 정리해본 지난 10개월간 담당했던 스킬셋..</b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
 다만, 넓고 얇은 개발 경험보다는, 좁고 깊은 개발 경험이 더 도움이 된다는 개인적인 신념과는 조금 반하는 부분이 있어서 조금 걱정되는 부분도 있기는 합니다. 이런 부분은 좀 더 회사를 경험해 본 뒤에 판단해도 늦지 않다는 생각을 하고 있습니다.
@@ -162,20 +166,22 @@ CTO : 너 혼자<br>
 저는 또 내일(2017.8.8)부터 다른 팀으로 이동합니다. 4번째 팀 변경이긴 하지만 맨 처음 배속되었던 팀으로 다시 돌아가게 됩니다. 아직 어떤 업무를 담당할지, 어떤 시련(?)이 있을지는 모르겠지만 새로운 경험을 할 수 있다는 것에 감사하고 있습니다. 
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/4.jpg" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>현재 팀 킥오프 회식!</b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-3/4.jpg" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>현재 팀 킥오프 회식!</b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
 다음 글은 우리 회사에서 사용하고 있는 개발 방법론과 회의 문화에 대해 적어볼 생각입니다. 

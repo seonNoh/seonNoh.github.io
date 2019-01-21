@@ -37,20 +37,22 @@ share: true
 예상외로 다음날 바로 답장이 왔네요. 
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/1.jpg" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>일본 회사로부터 받은 메일 발췌</center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/1.jpg" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>일본 회사로부터 받은 메일 발췌</b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
 직접???
@@ -62,20 +64,22 @@ share: true
 몇 번의 메일을 주고받으니 다음과 같은 메일을 받고 일본으로 인터뷰를 하기로 결정을 했습니다. 
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/2.jpg" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>일본 회사로부터 받은 메일 발췌</b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/2.jpg" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>일본 회사로부터 받은 메일 발췌</b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
 몇 번의 메일을 주고받은 중에서도 어떠한 메일 격식도 없었고, 딱딱한 인터뷰나 면접 이야기가 아닌,
@@ -133,24 +137,26 @@ CTO : 뭐.. 책상을 만든다거나, 의자를 만든다거나. <br>
 (참.. 구차하고 억지스럽습니다.) <br>
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/3.jpg" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>
-                        <a href="http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html">
-                            출처 : http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html
-                        </>
-                    </b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-1/3.jpg" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>
+                            <a href="http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html">
+                                출처 : http://news.chosun.com/site/data/html_dir/2014/05/15/2014051503522.html
+                            </a>
+                        </b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
 일본인들은 '과학상자'를 모르기 때문에 한 5분 동안 서로 설명하고 이해하고 웃느라 또 사소한 대화로 시간을 보냅니다.
