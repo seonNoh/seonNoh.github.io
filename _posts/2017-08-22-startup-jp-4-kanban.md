@@ -23,24 +23,25 @@ share: true
 여기서 이슈가 간판을 의미하며, 카드(card)라도고 부릅니다.
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/1.png" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                   <center><b>
-                        <a href="http://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019">
-                            출처 : http://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019
-                        </>
-                    </b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/1.png" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <center><b>
+                            <a href="http://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019">
+                                출처 : http://www.devmedia.com.br/scrum-e-planning-poker-analise-de-estimativa-de-software/31019</a>
+                        </b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
 위의 그림처럼 to-do, dev, test로 표시된 행을 수영 레인(swimlane)으로 불리며, 각 프로세스를 나타냅니다. 각 수영 레인에 표시되어 있는 숫자는 WIP(Work In Process)로 불리며, 각 프로세스마다 동시에 진행할 수 있는 이슈의 제한 수를 의미합니다. 알파벳으로 되어 있는 이슈(또는 카드)들은 왼쪽에서 오른쪽으로 연속적으로 진행하게 되며, 해당 이슈에는 담당하게 되는 멤버나, 해당 이슈의 작업 일수(또는 시간)등을 표시하여 좀 더 구체적으로 표현할 수 있습니다.
@@ -234,20 +235,22 @@ share: true
 
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/7.png" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>이곳 CTO도 쉽지는 않겠지.</b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-4/7.png" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>이곳 CTO도 쉽지는 않겠지.</b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
 어느 날 생뚱맞게 슬랙에 올라온 CTO의 한탄입니다.

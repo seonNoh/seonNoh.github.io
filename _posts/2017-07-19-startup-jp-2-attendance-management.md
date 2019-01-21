@@ -113,20 +113,22 @@ share: true
  또한, `[최소한 같은 회사 직원끼리 5시간 만은 같이 어우러져 일하자! 대신 나머지 3시간은 너희가 하고 싶은 대로 조절해서 사용하도록 해]`라는 회사의 바람도 담겨 있습니다. 실제로도 오후 3시가 되면 편의점에서 간식을 사 오거나, 회사 한쪽에 있는 다다미방에 누워 만화책을 보는 직원, 운동복을 챙겨서 운동을 하러 가는 직원, 온천을 가는 직원도 있으며, 근처 커피숍이나 자기 집으로 가서 업무를 하는 직원도 있습니다. 
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_5.png" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>오후 3시 이후에는 각 팀의 슬랙 채널에 보고만 하면 끝.</b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_5.png" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>오후 3시 이후에는 각 팀의 슬랙 채널에 보고만 하면 끝.</b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
 저는 보통 혼자 코딩을 해야 하는 경우나, 공부가 필요할 때 3시 이후 집으로 돌아가 업무를 하는 경우가 많습니다. 물론 바로 돌아가 업무를 이어 가는 경우도 있지만, 쇼핑을 한다던가 음식 재료를 산다던가, 아는 지인을 잠깐 만난 뒤에 오후 7시나 8시부터 다시 업무를 이어서 하기도 합니다. 
@@ -149,51 +151,51 @@ share: true
 그리고 신청을 하게 되면 리더들은 항상 대체휴가를 어느 날짜에 쓸 건지 물어봅니다.
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_6.png" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>실제 몇일전 휴일근무신청을 했을때 대화 스레드</b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_6.png" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>실제 몇일전 휴일근무신청을 했을때 대화 스레드</b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
-위의 대화도 본래는 토, 일, 월 3일 휴일 근무 신청을 하려 했습니다만, 토/일 연속 근무 금지 사칙으로 인해 거절당했습니다. (추가 근무 신청은 리더의 요청도 간간히 있어서 하는 경우도 있지만, 대부분 자신이 직접 판단해서 결정 후 보고 하는 경우가 많습니다.)
-
-
+위의 대화도 본래는 토, 일, 월 3일 휴일 근무 신청을 하려 했습니다만, 토/일 연속 근무 금지 사칙으로 인해 거절당했습니다. (<font color="blue"> 추가 근무 신청은 리더의 요청도 간간히 있어서 하는 경우도 있지만, 대부분 자신이 직접 판단해서 결정 후 보고 하는 경우가 많습니다. </font>)
 
 신기하게도, 이런 사소한 배려들이 휴일근무, 주말근무, 또는 철야, 야근 등에 대한 거부감이 자연스럽게 사라지게 됩니다. 저 역시 IT 업무를 계속 해오면서, 갑작스러운 이슈나 요청 등에 대한 빈도가 적지 않은 분야이기 때문에 불가피한 상황에서는 할 수밖에 없다고 생각을 하고는 있지만, 가급적 억지로 해야 한다던가 적절한 보상을 받지 않게 된다면, 언젠가는 지칠 수밖에 없다고 생각하거든요.
-
-
 
 ## JOBCAN
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_7.jpg" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>
-                        <a href="http://plum.io/blog/why-punching-the-clock-is-bad/#.WWe1Gk6LQkl">
-                            출처 : http://plum.io/blog/why-punching-the-clock-is-bad/#.WWe1Gk6LQkl
-                        </>
-                    </b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_7.jpg" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>
+                            <a href="http://plum.io/blog/why-punching-the-clock-is-bad/#.WWe1Gk6LQkl">
+                                출처 : http://plum.io/blog/why-punching-the-clock-is-bad/#.WWe1Gk6LQkl
+                            </a>
+                        </b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    <center>
 </div>
 
 모든 멤버들의 관리는 기본적으로 운영팀에서 관리를 하지만, 하루 8시간의 관리는 각자 멤버들이 관리를 합니다. 8시간의 업무를 증명하기 위해서 이 회사에서는 근태 관리 프로그램을 전사적으로 사용하는데 그게 'Jobcan'이라는 사이트입니다.
@@ -217,6 +219,8 @@ share: true
     </table>
 </div>
 
+사무실로 들어오는 정문과 후문에 각각 설치된 카드리더기에 입사 시 발급받은 IC카드를 찍으면 자동으로 출근 처리가 됩니다. 
+
 <div class="row">
     <table>
         <tbody>
@@ -234,23 +238,27 @@ share: true
     </table>
 </div>
 
-신기하게도 이 서비스는 일본어, 영어뿐 아니라 한국어도 지원이 돼서 개인적으로는 편리하게 관리하며 사용하고 있습니다.
+신기하게도, 이런 사소한 배려들이 휴일근무, 주말근무, 또는 철야, 야근 등에 대한 거부감이 자연스럽게 사라지게 됩니다. 저 역시 IT 업무를 계속 해오면서, 갑작스러운 이슈나 요청 등에 대한 빈도가 적지 않은 분야이기 때문에 불가피한 상황에서는 할 수밖에 없다고 생각을 하고는 있지만, 가급적 억지로 해야 한다던가 적절한 보상을 받지 않게 된다면, 언젠가는 지칠 수밖에 없다고 생각하거든요.
+
+## JOBCAN
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_10.png" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>규정근무 시간 및 실제로 얼마나 일했는지도 파악할 수 있습니다.</b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_10.png" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>규정근무 시간 및 실제로 얼마나 일했는지도 파악할 수 있습니다.</b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
 회사 입장에서도 각 멤버들의 업무 시간을 편하게 관리할 수 있으며, 개인적으로도 스스로 관리가 가능하기 때문에 참 마음에 드는 시스템 중에 하나입니다. 
@@ -260,20 +268,22 @@ share: true
 ## 신뢰와 책임
 
 <div class="row">
-    <table>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_11.png" />
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <center><b>아프면 쉬자고~</b></center>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+    <center>
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="https://s3-ap-northeast-1.amazonaws.com/seonology-blog/jekyll/startup-jp-2/resize_11.png" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <center><b>아프면 쉬자고~</b></center>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </center>
 </div>
 
 임원-리더-멤버 모두 서로를 신뢰하는 게 기본적으로 깔려 있습니다. 물론, 각자의 속마음이나 심정은 어떨지 모르겠지만, 대체적으로 아파서 재택근무를 신청하거나, 결근처리가 될 때도 진심으로 걱정해주는 친구들이 참 많습니다. 감기 같은 경우는 자신이 아파서 회사에 못 나오는 경우도 있지만, 상대방에게 옮겨서 민폐를 끼치게 될까 봐 재택근무나 유급을 신청하는 경우가 많습니다.
