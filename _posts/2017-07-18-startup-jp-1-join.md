@@ -45,8 +45,8 @@ share: true
                 </td>
             </tr>
             <tr>
-                <td align="center">
-                    [일본 회사로부터 받은 메일 발췌]
+                <td>
+                    <center>[일본 회사로부터 받은 메일 발췌]</center>
                 </td>
             </tr>
         </tbody>
